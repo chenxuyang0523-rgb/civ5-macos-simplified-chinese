@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.mamba/
+.conda/
+.venv/
+.env/
+dist/
+build/
+*.dds
+*.civ5mod
+*.zip
+*.tar.gz
+*.ips
+SimplifiedChineseBackup_*/
